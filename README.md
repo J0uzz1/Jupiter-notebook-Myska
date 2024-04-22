@@ -2,8 +2,8 @@
 ## Popis: 
 Tento projekt zahrnuje skript napsaný v jazyce Python pro analýzu toku vody v digitálním modelu terénu (DEM) pomocí knihovny pysheds. Projekt se skládá z několika částí, které zahrnují načtení a zpracování DEM, definování směrů toku, výpočet akumulace toku, vizualizaci výsledků a další analýzy. 
 ## Obsah: 
-**FLOW_ACCUMULATION.ipynb**: Jupyter notebook obsahující kompletní kód pro analýzu toku vody v digitálním modelu terénu.
-**dem3.tif**: Vzorový soubor digitálního modelu terénu (DEM) ve formátu GeoTIFF použitý v analýze. 
+- **FLOW_ACCUMULATION.ipynb**: Jupyter notebook obsahující kompletní kód pro analýzu toku vody v digitálním modelu terénu.
+- **dem3.tif**: Vzorový soubor digitálního modelu terénu (DEM) ve formátu GeoTIFF použitý v analýze. 
 ## Knihovny: 
 numpy - pysheds.grid - matplotlib.pyplot - matplotlib.colors - matplotlib.patches - seaborn - rasterio 
 ## Spuštění: 
