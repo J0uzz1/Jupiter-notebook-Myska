@@ -38,4 +38,4 @@ Josef Myška
 ## Contact: 
 For any questions or comments you can contact myska-josef@seznam.cz.
 ## Notes: 
-This project was created as součást předmětu PRODA a to jako semestrální práce. 
+This project was created as part of PRODA subject, like an semestral work and for the purposes of the thesis.
